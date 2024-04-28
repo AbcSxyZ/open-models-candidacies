@@ -1,6 +1,6 @@
 # Mission on open education - Nantes University Application
 
-## Projet « Openness » : Mandate the university
+## « Openness » Project (ExcellencES) : Mandate the university
 
 **Goal:** Rely on the university's competences to develop the strategy for open education and education on open models
 with the intent to **integrate openness practices into digital literacy**. Build a common digital

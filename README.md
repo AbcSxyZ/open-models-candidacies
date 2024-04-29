@@ -54,6 +54,8 @@ Use of the factory to build the IT infrastructure. Foster a spirit of continuous
 
 How to manage the university common digital heritage, which place for libraries and open libraries in the management of open resources? Bringing the debate on the infrastructure of science and education within the horizon of **digital libraries**.
 
+![The World Library](world-library.png)
+
 ## Open Models Program Office (OSPO like)
 
 Hub for the governance of the openness strategy
@@ -69,7 +71,7 @@ Interaction with other OSPO/OMPO entities to explore open models & support profe
 
 Confusion over the meaning of open source, within and beyond software. Importance of open source resources with open models.
 
-![The open source image ?](open-source-image.png)
+![The open source image ?](open-source-undefined.png)
 
 What is the impact of changes in its meaning? Ex: role of OSPOs
 

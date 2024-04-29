@@ -80,4 +80,4 @@ What is the impact of a change in the meaning of open source? Ex: role of OSPOs 
 
 ## Resources & license
 
-Content under creative commons CC 0, find related resources on a [Zotero shared library](https://www.zotero.org/groups/5511462/nantes-university/library).
+Content under creative commons CC 0 and available on [GitHub](https://github.com/AbcSxyZ/open-education-mission), find related resources on a [Zotero shared library](https://www.zotero.org/groups/5511462/nantes-university/library).

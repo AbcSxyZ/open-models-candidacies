@@ -50,7 +50,7 @@ Organize a **call for commons** on the project « Openness » & the open educati
 
 Despite the essential nature of software with open models, Nantes University lacks the open software dimension in its holistic approach. To be supported for open education in parallel with the development of axis 3 of the open science strategy.
 
-Listing of existing tools usable for digital commons at first: (university's [GitLab](https://gitlab.univ-nantes.fr/), Wiki technology, Quarto, LibreText, Cours en Ligne (CEL) HAL, Open Science Framework...).
+Listing of existing tools usable for digital commons at first: (university's [GitLab](https://gitlab.univ-nantes.fr/), Moodle, Wiki technology, Quarto, LibreText, Cours en Ligne (CEL) HAL, Open Science Framework...).
 
 Shared infrastructure issues with open models players, seek to embrace the worldwide movement with the help of the IT department.
 

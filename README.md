@@ -82,9 +82,6 @@ What is the impact of a change in the meaning of « open source » ? Ex: role of
 
 What if « open source » is not a software topic ?
 
-> « *Most hackers know that Free Software and Open Source are just two words for the same thing.* »
-> [Bruce Perens](https://lists.debian.org/debian-devel/1999/02/msg01641.html), co-founder of the Open Source Initiative (1999)
-
 ## Resources & license
 
 Content under creative commons CC 0 and available on [GitHub](https://github.com/AbcSxyZ/open-education-mission), find related resources on a [Zotero shared library](https://www.zotero.org/groups/5511462/nantes-university/library).

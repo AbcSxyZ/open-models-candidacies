@@ -19,8 +19,8 @@ to let everyone benefit from the openness program & grant(s).
 An entry point to build any type of digital commons and cover all types of digital resources produced by the
 university community. A place to find appropriate tools and methodology to enable open collaboration.
 
-- Pedagogical commons
-- Research work and articles
+- Pedagogical commons (open education)
+- Research work and articles (open science)
 - Open software
 - Open data
 - Open hardware

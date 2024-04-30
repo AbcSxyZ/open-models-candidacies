@@ -68,7 +68,7 @@ Democratic hub for the governance of the openness strategy:
 
 Question of open models federation, iniate OMPO by an openness committee.
 
-Interaction with other OSPO/OMPO entities to explore open models & support the professionalization of open models players
+Interaction with other OSPO/OMPO entities to explore open models & support the professionalization of open models players through network like [OSPO++](https://ospoplusplus.org/resource/guide-to-set-up-a-university-open-source-programs-office/) (see OSPO guide).
 
 ## Define open source
 

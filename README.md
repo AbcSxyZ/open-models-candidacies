@@ -46,7 +46,7 @@ Organize a **call for commons** on the project « Openness » & the open educati
 - A topic on implementation of open education within people's own curriculum, whether they be teachers or students ?
 - Call in support of open education strategy & open university philosophy, open to the outside world
 
-### Lack of open software policy: support Open Scholarly Infrastructure
+### Lack of open software policy: support [Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/)
 
 Despite the essential nature of software with open models, Nantes University lacks the open software dimension in its holistic approach. To be supported for open education in parallel with the development of axis 3 of the open science strategy.
 

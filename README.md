@@ -10,6 +10,8 @@ A desire to let researchers and lecturers guide the mission, while at the same t
 areas of expertise. An approach oriented to help all members of the university to develop their digital skills
 to let everyone benefit from the openness program & grant(s).
 
+Challenges around the university's ability to use its own skills for their own project(s).
+
 ![Example of a possible type of organisation](openness-project.svg)
 
 ## The Digital Commons Factory

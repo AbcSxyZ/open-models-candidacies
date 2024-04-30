@@ -78,7 +78,9 @@ Confusion over the meaning of open source, within and beyond software, around th
 
 ![The open source image ?](open-source-undefined.png)
 
-What is the impact of a change in the meaning of open source? Ex: role of OSPOs & IT architectures
+What is the impact of a change in the meaning of « open source » ? Ex: role of OSPOs & IT architectures
+
+What if « open source » is not a software topic ?
 
 ## Resources & license
 

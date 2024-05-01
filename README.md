@@ -50,7 +50,7 @@ Inspired by and linked to initiatives such as the [Open Education Stimulation Fu
 
 ### Lack of open software policy: support [Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/)
 
-Despite the essential nature of software with open models, Nantes University lacks the open software dimension in its holistic approach. To be supported for open education in parallel with the development of axis 3 of the open science strategy.
+Despite the essential nature of software with open models and digital technologies, Nantes University lacks the open software dimension in its holistic approach. To be supported for open education in parallel with the development of axis 3 of the open science strategy.
 
 Listing of existing tools usable for digital commons at first: (university's [GitLab](https://gitlab.univ-nantes.fr/), Moodle, Wiki technology, Quarto, LibreText, Cours en Ligne (CEL) HAL, Open Science Framework...).
 

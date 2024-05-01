@@ -87,3 +87,5 @@ What if « open source » is not a software topic ?
 ## Resources & license
 
 Content under creative commons CC 0 and available on [GitHub](https://github.com/AbcSxyZ/open-education-mission), find related resources on a [Zotero shared library](https://www.zotero.org/groups/5511462/nantes-university/library).
+
+<embed src="job-offer.pdf" width="100%" height="800" type="application/pdf">

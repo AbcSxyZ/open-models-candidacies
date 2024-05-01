@@ -76,7 +76,7 @@ Interaction with other OSPO/OMPO entities to explore open models through network
 
 ## Define open source
 
-Confusion over the meaning of open source, within and beyond software, notably around the sources availability of digital resources. Importance of open source resources with open models, like in open education around the idea of « [open source educational resources](https://arxiv.org/abs/2107.14330) ».
+Confusion over the meaning of open source, within and beyond software, notably around the sources availability of digital resources to enable modifications. Importance of open source resources with open models, like in open education around the idea of « [open source educational resources](https://arxiv.org/abs/2107.14330) ».
 
 ![The open source image ?](open-source-undefined.png)
 

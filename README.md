@@ -46,6 +46,8 @@ Organize a **call for commons** on the project « Openness » & the open educati
 - A topic on implementation of open education within people's own curriculum, whether they be teachers or students ?
 - Call in support of open education strategy & open university philosophy, open to the outside world
 
+Inspired by and linked to initiatives such as the [Open Education Stimulation Fund](https://www.tudelft.nl/en/open-science/articles-tu-delft/call-for-proposals-open-education-stimulation-fund-2023) from TU Delft or the digital commons fund set up by the French national education as part of its 2023-2027 [digital education strategy](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263) (key point 7).
+
 ### Lack of open software policy: support [Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/)
 
 Despite the essential nature of software with open models, Nantes University lacks the open software dimension in its holistic approach. To be supported for open education in parallel with the development of axis 3 of the open science strategy.

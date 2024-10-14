@@ -36,6 +36,9 @@ Références:
 
 ## Vers une éducation aux modèles ouverts et aux communs numériques
 
+=> Expliquer l'orientation possible du fonctionnement d'une éducation à ces enjeux d'ouverture, articulation bases
+communes et expertises spécifiques
+
 - Omniprésence dans notre environnement numérique, absence dans l'éducation dessus. Ignorance de leur existance
 - Recherche culture d'ouverture, place de l'éducation montante, une éducation « par et pour les communs »
 - Enseignement loi communes dynamiques d'ouverture, clés compréhension des phénomènes du numériques

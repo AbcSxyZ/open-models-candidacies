@@ -50,6 +50,7 @@ communes et expertises spécifiques
 - Recherche culture d'ouverture, place de l'éducation montante, une éducation « par et pour les communs »
 - Enseignement loi communes dynamiques d'ouverture, clés compréhension des phénomènes du numériques
 - Complexité éducation modèles ouverts, entre culture générale et besoins spécialisés par domaines
+- Processus de professionalisation, manque de compétences
 
 ## Recherche sur l'éducation aux modèles ouverts à l'IRDP
 

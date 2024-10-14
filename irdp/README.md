@@ -27,7 +27,7 @@ Références:
 - Unesco Recommandations REL: https://www.unesco.org/fr/legal-affairs/recommendation-open-educational-resources-oer
 - Coalition S: https://www.coalition-s.org/
 - 2nd plan national science ouverte: https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-09/2e-plan-national-pour-la-science-ouverte-12968.pdf
-- Swiss National Open Access Strategy
+- Swiss National Open Access Strategy: https://www.swissuniversities.ch/en/topics/open-science/open-access/national-strategy
 - FR stratégie numérique pour l'éducation: https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263
 - Forge des communs numériques éducatifs: https://docs.forge.apps.education.fr/
 - Référentiel compétences numériques: https://www.ciip.ch/files/2/Ref_Comp_Num_SO_2021.pdf

@@ -13,6 +13,8 @@ Objectifs globaux:
 
 ## Les modèles ouverts, des fondamentaux du numérique
 
+![Illustration of Open Models](https://raw.githubusercontent.com/Open-Models/Base/refs/heads/main/images/open-models.png){width=85%}
+
 => Objectif pédagogique de compréhension des enjeux d'ouverture
 
 - Démonstration importance dynamique d'ouverture science ouverte et logiciel ouvert, arrivée éducation ouverte

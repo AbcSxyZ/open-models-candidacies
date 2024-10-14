@@ -1,3 +1,8 @@
+---
+title: "Candidature IRDP"
+bibliography: irdp.bib
+---
+
 Nous ignorons encore presque tout de la transformation qu'entraîne la révolution numérique dans notre rapport à la connaissance.
 
 Objectifs globaux:
@@ -49,3 +54,8 @@ communes et expertises spécifiques
 Explication collaboration structures pour l'éducation aux modèles ouverts
 
 <embed src="job-offer.pdf" width="100%" height="800" type="application/pdf">
+
+---
+nocite: |
+  @*
+---

@@ -3,6 +3,8 @@ project:
   render:
     - "*.md"
     - README.md
+    - nantes/README.md
+    - irdp/README.md
     
 website:
   title: "Open Education Mission"

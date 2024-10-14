@@ -37,7 +37,7 @@ Références:
 - Forge des communs numériques éducatifs: https://docs.forge.apps.education.fr/
 - Référentiel compétences numériques: https://www.ciip.ch/files/2/Ref_Comp_Num_SO_2021.pdf
 - Politique ouverture code source France [https://www.numerique.gouv.fr/publications/politique-logiciel-libre/]
-- Politique ouverture code source Suisse [https://www.numerique.gouv.fr/publications/politique-logiciel-libre://www.bk.admin.ch/bk/fr/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html]
+- Politique ouverture code source Suisse [https://www.bk.admin.ch/bk/fr/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html]
 
 ## Vers une éducation aux modèles ouverts et aux communs numériques
 

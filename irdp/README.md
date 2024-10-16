@@ -11,7 +11,7 @@ XVIIIème, nous découvrons plutôt par inadvertance les capacités de diffusion
 des individus qu'offre cette technologie nouvelle. Depuis l'origine de l'informatique des mouvements d'ouverture se
 retrouvent à façonner le cœur de notre univers numérique, des dynamiques omniprésentes alors même qu'on en
 ignore bien souvent jusqu'à leur existence avec au mieux une pratique confuse. Un bouleversement technique et sociétal 
-majeur qui se dessine au milieu d'une bascule dans notre conception du monde confrontés à la finitude des civilisations, aujourd'hui la nôtre.
+majeur qui se dessine au milieu d'une bascule dans notre conception du monde confrontés à la finitude des civilisations, cette fois-ci la nôtre.
 Il semblerait que tout reste encore un peu à apprendre de l'usage du numérique comme outil de la connaissance pour
 espérer le mobiliser plus pleinement face aux défis contemporains, avec au fond l'histoire de la science et de
 l'éducation qui continue de se dérouler sous nos yeux. 

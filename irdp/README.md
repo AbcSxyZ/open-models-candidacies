@@ -39,18 +39,31 @@ dont l'existence devient possible en partie grâce à une profusion de logiciels
 nous nous retrouvons à réaliser notre dépendance délicate à ces logiciels particuliers en même temps que se précise une tendance
 à s'orienter plus consciemment vers l'« open source » dans les infrastructures pour des intérêts multiples.
 
-Le logiciel open source s'impose comme incontournable, et dans sa continuité un mouvement mondial pour la « science ouverte »
+Le logiciel ouvert s'impose comme incontournable, et dans sa continuité un mouvement mondial pour la « science ouverte »
 cherche à normaliser le libre accès aux publications scientifiques depuis plus de 20 ans. Des politiques, des stratégies et/ou des recommandations fleurissent au niveau
-des universités, des instituts de recherche, aux échelles nationales et supranationales, s'articulant autour d'un principe d'ouverture par défaut
-des productions financées par l'argent public. Une période de crise comme le Covid-19 peut venir accentuer l'importance
-donné à cet accès aux connaissances comme le montre l'[appel commun](https://www.ohchr.org/fr/2020/10/joint-appeal-open-science-cern-ohchr-unesco-and-who)
-avec l'ONU lancé lors de la première année de l'épidémie. La société tout comme la majorité des universitaires ne le sait pas encore mais la science ouverte
-marque les prémices d'une révolution scientifique au travers du numérique. L'éducation mène une mue numérique similaire
-avec le mouvement de l'éducation ouverte
+des universités, des instituts de recherche, aux échelles nationales et supranationales, avec un certain principe d'ouverture par défaut
+des productions financées par l'argent public en faveur d'une libre circulation de la connaissance. Une période de crise comme le Covid-19 peut venir accentuer l'importance
+donnée à cet accès aux connaissances comme le montre l'appel commun 
+lancé avec l'ONU au cours de la première année de l'épidémie. La société tout comme la majorité des universitaires ne le sait pas encore mais la science ouverte
+marque les prémices d'une révolution scientifique au travers du numérique en donnant dans un premier temps un accès au patrimoine commun de connaissances
+de l'Humanité. L'éducation mène progressivement une mue numérique similaire par le mouvement de l'« éducation ouverte ».
+L'UNESCO a émis des recommandations pour les ressources éducatives ouvertes(/libres) [OER], les universités intégrent ces
+aspects en lien avec leurs politiques de science ouverte, des politiques nationales à destination de la scolarité
+obligatoire encourage l'usage et la publication d'OER comme dans les référentiels de compétences numériques tout en invitant
+à plus de collaboration. En France, le ministère de l'éducation nationale en cohérence avec leur stratégie numérique 2023-2027
+s'est récemment doté d'une « Forge des communs numériques éducatifs » pour rassembler et co-produire des contenus pédagogiques dans un environnement partagé.
+Plus le numérique se démocratise et plus ces mouvements d'ouverture prospèrent dans une multitude de domaines.
+
+Ces modèles ouverts suivent tout un processus dans leur développement, avec d'abord une volonté de partage de l'information suivie d'une
+découverte du potentiel collaboratif permis par une culture spécifique et des environnements socio-technique qui
+mûrissent. Par une certaine collaboration massive entre pairs, de nombreux éléments se retrouvent à servir de pilliers
+largement éprouvés éclipsant ensuite les alternatives fermées. Plus que les ressources, c'est par la suite tout un questionnement
+sur le changement de posture permis par ces moyens nouveaux, tel que l'impact sur l'approche pour mener une recherche ou
+un enseignement. Des phénomènes déjà partout autour de nous qui fonctionnent de façon complémentaire en se renforçant mutuellement.
 
 
-
-
+Pour espérer une robuste littératie numérique une compréhension des modèles ouverts devient
+indispensable
 
 
 => Objectif pédagogique de compréhension des enjeux d'ouverture

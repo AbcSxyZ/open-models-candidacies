@@ -40,11 +40,11 @@ nous nous retrouvons à réaliser notre dépendance délicate à ces logiciels p
 à s'orienter plus consciemment vers l'« open source » dans les infrastructures pour des intérêts multiples.
 
 Le logiciel ouvert s'impose comme incontournable, et dans sa continuité un mouvement mondial pour la « science ouverte »
-cherche à normaliser le libre accès aux publications scientifiques depuis plus de 20 ans. Des politiques, des stratégies et/ou des recommandations fleurissent au niveau
+cherche à normaliser le libre accès aux publications scientifiques depuis plus de 20 ans. Des politiques, des stratégies et des recommandations fleurissent au niveau
 des universités, des instituts de recherche, aux échelles nationales et supranationales, avec un certain principe d'ouverture par défaut
 des productions financées par l'argent public en faveur d'une libre circulation de la connaissance. Une période de crise comme le Covid-19 peut venir accentuer l'importance
 donnée à cet accès aux connaissances comme le montre l'appel commun 
-lancé avec l'ONU au cours de la première année de l'épidémie. La société tout comme la majorité des universitaires ne le sait pas encore mais la science ouverte
+lancé avec l'ONU au cours de la première année de l'épidémie. La société tout comme la majorité des universitaires ne le saisit pas encore mais la science ouverte
 marque les prémices d'une révolution scientifique au travers du numérique en donnant dans un premier temps un accès au patrimoine commun de connaissances
 de l'Humanité. L'éducation mène progressivement une mue numérique similaire par le mouvement de l'« éducation ouverte ».
 L'UNESCO a émis des recommandations pour les ressources éducatives ouvertes(/libres) [OER], les universités intégrent ces
@@ -62,7 +62,8 @@ découverte du potentiel collaboratif permis par une culture spécifique et des 
 mûrissent. Par une certaine collaboration massive entre pairs, de nombreux éléments se retrouvent à servir de pilliers
 largement éprouvés éclipsant ensuite les alternatives fermées. Plus que les ressources, c'est par la suite tout un questionnement
 sur le changement de posture permis par ces moyens nouveaux, tel que l'impact sur l'approche pour mener une recherche ou
-un enseignement. Des phénomènes déjà partout autour de nous qui fonctionnent de façon complémentaire en se renforçant mutuellement.
+un enseignement où des méthodologies sont amenées à s'inventer. Des phénomènes déjà partout autour de nous qui fonctionnent de
+façon complémentaire en se renforçant mutuellement.
 
 
 Pour espérer une robuste littératie numérique une compréhension des modèles ouverts devient

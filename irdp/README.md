@@ -16,15 +16,9 @@ Il semblerait que tout reste encore un peu à apprendre de l'usage du numérique
 espérer le mobiliser plus pleinement face aux défis contemporains, avec au fond l'histoire de la science et de
 l'éducation qui continue de se dérouler sous nos yeux. 
 
-Objectifs globaux:
-
-- Montrer expertise sur le numérique
-- Sensibilisation à l'éducation aux modèles ouverts
-- Enjeux de citoyenneté & changement sociétaux, transformation science et éducation
-
 ## Les modèles ouverts, des fondamentaux du numérique
 
-![Illustration of Open Models](https://raw.githubusercontent.com/Open-Models/Base/refs/heads/main/images/open-models.png){width=85%}
+![](https://raw.githubusercontent.com/Open-Models/Base/refs/heads/main/images/open-models.png){width=85%}
 
 Le numérique repose sur une culture du partage et de la collaboration. Ses fondations se basent sur des ressources communes en libre accès,
 et ces ressources ont un rôle central dans une vaste majorité des développements à l'œuvre ces dernières décennies avec l'informatique. Ces
@@ -65,30 +59,7 @@ sur le changement de posture permis par ces moyens nouveaux, tel que l'impact su
 un enseignement où des méthodologies sont amenées à s'inventer. Des phénomènes déjà partout autour de nous qui fonctionnent de
 façon complémentaire en se renforçant mutuellement.
 
-
-
-=> Objectif pédagogique de compréhension des enjeux d'ouverture
-
-- Démonstration importance dynamique d'ouverture science ouverte et logiciel ouvert, arrivée éducation ouverte
-- Début par l'open software pour des raisons historique => Impact sur les révolution technologiques
-- Suite science ouverte, processus de normalisation
-
-- Complémentarité dynamiques d'ouverture
-
-- Bascule du partage d'information aux pratiques collaboratives
-- Considération des pratiques autour des ressources
-- Cloture vers l'impact dans la conduite de la science et de l'éducation
-
 ## Vers une éducation aux modèles ouverts et aux communs numériques
-
-=> Expliquer l'orientation possible du fonctionnement d'une éducation à ces enjeux d'ouverture, articulation bases
-communes et expertises spécifiques
-
-- Omniprésence dans notre environnement numérique, absence dans l'éducation dessus. Ignorance de leur existance
-- Recherche culture d'ouverture, place de l'éducation montante, une éducation « par et pour les communs »
-- Enseignement loi communes dynamiques d'ouverture, clés compréhension des phénomènes du numériques
-- Complexité éducation modèles ouverts, entre culture générale et besoins spécialisés par domaines
-- Processus de professionalisation, manque de compétences
 
 Malgré le caractère fondamental et structurant de ces dynamiques, l'éducation aux modèles ouverts et aux communs
 numériques n'existe presque pas mais devient de plus en plus recherchée du fait de leur importance croissante.

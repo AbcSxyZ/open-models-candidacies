@@ -89,7 +89,7 @@ circulation plus libre et d'une collaboration renforcée autour des moyens d'ens
 la mobilisation d'une recherche scientifique de plus en plus accessible, pour s'interroger sur les compétences dans la
 formation du citoyen que cela peut induire et comment alimenter ces savoirs tout au long d'une scolarité, pour suivre et soutenir le
 développement des outils logiciels utiles à ces fins, etc. Des modèles ouverts amenés à impacter la manière de
-produire la recherche ou de remplir une mission de dissémination des savoirs et donc d'éducation de l'IRDP.
+produire la recherche ou de remplir la mission de dissémination des savoirs et donc d'éducation de l'IRDP.
 
 Par la capacité de l'institut à coordonner de la recherche en éducation, l'objectif sera de collaborer avec le milieu de
 l'enseignement et de la recherche confronté à cette éducation aux modèles ouverts. Pour contribuer à son

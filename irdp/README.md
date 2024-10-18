@@ -77,31 +77,35 @@ culture générale et ensuite se décliner dans des enseignements plus spéciali
 d'expertises.
 
 Impossible d'imaginer comprendre véritablement le numérique sans appréhender un minimum ces modèles ouverts qui sont
-alors cruciaux dans une robuste littératie numérique. Une maîtrise des modèles ouverts influence la manière
+alors cruciaux dans une robuste littératie numérique. Une compréhension des modèles ouverts influence la manière
 de penser et d'agir dans cette révolution technologique.
 
 ## Recherche sur l'éducation aux modèles ouverts à l'IRDP
 
 Avec l'intégration graduelle d'une éducation numérique où transparait la volonté d'un enseignement par et pour les communs numériques,
-je vous propose de mener au sein de l'IRDP un travail de recherche sur l'éducation aux modèles ouverts. Un projet de recherche pour
+je vous propose de mener au sein de l'IRDP un travail de recherche sur l'éducation aux modèles ouverts pour espérer encourager une meilleure
+maîtrise du numérique comme outil de la connaissance. Un projet de recherche pour
 réfléchir à la formation des enseignants dans cette optique d'une
-circulation plus libre et d'une collaboration renforcée autour des moyens d'enseignements, pour aider à
-la mobilisation d'une recherche scientifique de plus en plus accessible, pour s'interroger sur les compétences dans la
-formation du citoyen que cela peut induire et comment alimenter ces savoirs tout au long d'une scolarité, pour suivre et soutenir le
-développement des outils logiciels utiles à ces fins, etc. Des modèles ouverts amenés à impacter la manière de
+circulation plus libre des moyens d'enseignements et d'une collaboration renforcée autour, pour aider à
+la mobilisation d'une recherche scientifique de plus en plus accessible avec toute la continuité entre science et éducation, pour s'interroger sur les compétences dans la
+formation du citoyen que cela peut induire et comment alimenter ces savoirs tout au long d'une scolarité ou d'une vie, pour suivre et soutenir le
+développement des outils logiciels utiles à ces fins, entre autres. Des modèles ouverts amenés à impacter encore d'avantage la manière de
 produire la recherche ou de remplir la mission de dissémination des savoirs et donc d'éducation de l'IRDP.
 
-Par la capacité de l'institut à coordonner de la recherche en éducation, l'objectif sera de collaborer avec le milieu de
+Par la capacité de l'institut à coordonner de la recherche en éducation, l'objectif sera d'essayer de collaborer au mieux avec le milieu de
 l'enseignement et de la recherche confronté à cette éducation aux modèles ouverts. Pour contribuer à son
 émergence dans le milieu universitaire en lien étroit avec les stratégies et équipes de science ouverte puis bénéficier de ces
 avancées dans l'éducation primaire et secondaire. La Sorbonne Université vient
-d'entrer en contact avec moi pour un poste de [chargé de mission formation à la science ouverte](https://choisirleservicepublic.gouv.fr/offre-emploi/charge-de-mission-formation-a-la-science-ouverte-fh-ref-ideesfso-reference-2024-1652220/), je tente donc de lancer une discussion
+d'entrer en contact avec moi pour un poste de
+[chargé de mission formation à la science ouverte](https://choisirleservicepublic.gouv.fr/offre-emploi/charge-de-mission-formation-a-la-science-ouverte-fh-ref-ideesfso-reference-2024-1652220/),
+l'objet étant de travailler sur la structuration de l'éducation à la science ouverte à l'échelle de l'université, proche de
+réseaux universitaire où ces thématiques deviennent d'autant plus prégnantes. Beaucoup d'incertitudes mais je tente donc de lancer une discussion
 pour combiner ces propositions permettant d'ouvrir la voie à l'exploration de ces vastes défis à travers l'ensemble des degrés d'enseignements.
 
-Par une philosophie mutualiste, ces modèles ouverts s'accordent plutôt naturellement avec la mission de service public de la Conférence intercantonale de
-l'instruction publique de la Suisse romande et du Tessin. Réfléchir au commun dans cet environnement à la croisée de la
-recherche et de l'éducation à destination de la société et de sa jeunesse pourrait être une expérience d'une vraie richesse pour chacun de
-nous. En souhaitant que cette candidature et ces sujets susciteront votre intérêt pour prolonger cet échange.
+Par une relative philosophie mutualiste, voire même fédéraliste, ces modèles ouverts s'accordent plutôt naturellement à la mission de la Conférence intercantonale de
+l'instruction publique de la Suisse romande et du Tessin tout comme à celle de l'institut. Réfléchir au commun dans cet environnement à la croisée de la
+recherche et de l'éducation à destination de la société et de sa jeunesse pourrait être une expérience bien (trop ?) stimulante. Curieux d'avoir l'occasion
+d'approfondir ces sujets avec vous.
 
 <embed src="job-offer.pdf" width="100%" height="800" type="application/pdf">
 

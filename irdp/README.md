@@ -22,12 +22,12 @@ l'éducation qui continue de se dérouler sous nos yeux.
 
 Le numérique repose sur une culture du partage et de la collaboration. Ses fondations se basent sur des ressources communes en libre accès,
 et ces ressources ont un rôle central dans une vaste majorité des développements à l'œuvre ces dernières décennies avec l'informatique. Ces
-mouvements d'ouverture ont débutés par les logiciels avec ce qu'on nomme plus communément l'open source. Ces logiciels
+mouvements d'ouverture ont débuté par les logiciels avec ce qu'on nomme plus communément l'open source. Ces logiciels
 ouverts ont notamment permis la première vague de démocratisation d'Internet dans les années 80, le World Wide Web s'est construit
 dès les années 90 à travers des ensembles de briques libres rendant accessible la mise en place de sites web, des technologies devenues essentielles
 dans l'émergence du « cloud » et ses datacenters, une approche ouverte structurante pour la téléphonie et les objets connectés, les blockchains,
 la vague actuelle sur l'IA succède également à plusieurs générations d'outils ouverts. L'intégralité des applications avec
-lesquels nous interagissons au quotidien sont produite avec une part conséquente de logiciels open source,
+lesquels nous interagissons au quotidien sont produites avec une part conséquente de logiciels open source,
 toutes les grandes et petites organisations technologiques en mobilisent abondamment dans des logiques singulières de coopétition, des organisations
 dont l'existence devient possible en partie grâce à une profusion de logiciels. Par la pervasivité de ces phénomènes et de leurs ressources,
 nous nous retrouvons à réaliser notre dépendance délicate à ces logiciels particuliers en même temps que se précise une tendance
@@ -40,11 +40,11 @@ des productions financées par l'argent public en faveur d'une libre circulation
 donnée à cet accès aux connaissances comme le montre l'appel commun 
 lancé avec l'ONU au cours de la première année de l'épidémie. La société tout comme la majorité des universitaires ne le saisit pas encore mais la science ouverte
 marque les prémices d'une révolution scientifique au travers du numérique en donnant dans un premier temps un accès au patrimoine commun de connaissances
-de l'Humanité. L'éducation mène progressivement une mue numérique similaire par le mouvement de l'« éducation ouverte ».
-L'UNESCO a émis des recommandations pour les ressources éducatives ouvertes(/libres) [OER], les universités intégrent ces
+de l'humanité. L'éducation mène progressivement une mue numérique similaire par le mouvement de l'« éducation ouverte ».
+L'UNESCO a émis des recommandations pour les ressources éducatives ouvertes(/libres) [OER], les universités intègrent ces
 aspects en lien avec leurs politiques de science ouverte, des politiques nationales à destination de la scolarité
-obligatoire encourage l'usage et la publication d'OER comme dans les référentiels de compétences numériques tout en invitant
-à plus de collaboration. En France, le ministère de l'éducation nationale en cohérence avec leur stratégie numérique 2023-2027
+obligatoire encouragent l'usage et la publication d'OER comme dans les référentiels de compétences numériques tout en invitant
+à plus de collaboration. En France, le ministère de l'Éducation nationale en cohérence avec leur stratégie numérique 2023-2027
 s'est récemment doté d'une « Forge des communs numériques éducatifs » pour rassembler et co-produire des contenus pédagogiques dans un environnement partagé.
 Plus le numérique se démocratise et plus ces mouvements d'ouverture prospèrent dans une multitude de domaines.
 
@@ -53,7 +53,7 @@ Plus le numérique se démocratise et plus ces mouvements d'ouverture prospèren
 
 Ces modèles ouverts suivent tout un processus dans leur développement, avec d'abord une volonté de partage de l'information suivie d'une
 découverte du potentiel collaboratif permis par une culture spécifique et des environnements socio-technique qui
-mûrissent. Par une certaine collaboration massive entre pairs, de nombreux éléments se retrouvent à servir de pilliers
+mûrissent. Par une certaine collaboration massive entre pairs, de nombreux éléments se retrouvent à servir de piliers
 largement éprouvés éclipsant ensuite les alternatives fermées. Plus que les ressources, c'est par la suite tout un questionnement
 sur le changement de posture permis par ces moyens nouveaux, tel que l'impact sur l'approche pour mener une recherche ou
 un enseignement où des méthodologies sont amenées à s'inventer. Des phénomènes déjà partout autour de nous qui fonctionnent de
@@ -65,7 +65,7 @@ Malgré le caractère fondamental et structurant de ces dynamiques, l'éducation
 numériques n'existe presque pas mais devient de plus en plus recherchée du fait de leur importance croissante.
 L'autodidaxie reste la norme dans l'acquisition de compétences dans ces milieux. Timidement des formations se formalisent
 par domaine d'ouverture comme pour les informaticiens et le logiciel ouvert, les bibliothécaires et les chercheurs avec la science
-ouverte, les enseignants commencent à être sensibilisés à l'éducation ouverte, des formations soutenues par la professionalisation
+ouverte, les enseignants commencent à être sensibilisés à l'éducation ouverte, des formations soutenues par la professionnalisation
 des acteurs de l'ouverture où se met en place des pôles dédiés dans les organisations.
 Ces modèles ouverts ne sont par contre pas encore expliqués comme un tout pour fournir une vision
 globale de ces transformations alors même que de nombreuses lois communes semblent régir leur fonctionnement que ce soit sur les modèles juridiques,
@@ -86,18 +86,18 @@ je vous propose de mener au sein de l'IRDP un travail de recherche sur l'éducat
 réfléchir à la formation des enseignants dans cette optique d'une
 circulation plus libre et d'une collaboration renforcée autour des moyens d'enseignements, pour aider à
 la mobilisation d'une recherche scientifique de plus en plus accessible, pour s'interroger sur les compétences dans la
-formation du citoyen que cela peut induire et comment alimenter ces savoirs tout au long d'une scolarité, suivre et soutenir le
+formation du citoyen que cela peut induire et comment alimenter ces savoirs tout au long d'une scolarité, pour suivre et soutenir le
 développement des outils logiciels utiles à ces fins, etc. Des modèles ouverts amenés à impacter la manière de
 produire la recherche ou de remplir une mission de dissémination des savoirs et donc d'éducation de l'IRDP.
 
-Par la capacité de l'institut à coordoner de la recherche en éducation, l'objectif sera de collaborer avec le milieu de
+Par la capacité de l'institut à coordonner de la recherche en éducation, l'objectif sera de collaborer avec le milieu de
 l'enseignement et de la recherche confronté à cette éducation aux modèles ouverts. Pour contribuer à son
 émergence dans le milieu universitaire en lien étroit avec les stratégies et équipes de science ouverte puis bénéficier de ces
-avancées dans l'éducation primaire et secondaire La Sorbonne Université vient
-d'entrée en contact avec moi pour un poste de [chargé de mission formation à la science ouverte](https://choisirleservicepublic.gouv.fr/offre-emploi/charge-de-mission-formation-a-la-science-ouverte-fh-ref-ideesfso-reference-2024-1652220/), je tente donc de lancer une discussion
+avancées dans l'éducation primaire et secondaire. La Sorbonne Université vient
+d'entrer en contact avec moi pour un poste de [chargé de mission formation à la science ouverte](https://choisirleservicepublic.gouv.fr/offre-emploi/charge-de-mission-formation-a-la-science-ouverte-fh-ref-ideesfso-reference-2024-1652220/), je tente donc de lancer une discussion
 pour combiner ces propositions permettant d'ouvrir la voie à l'exploration de ces vastes défis à travers l'ensemble des degrés d'enseignements.
 
-Par une philosophie mutualiste, ces modèles ouverts s'accorde plutôt naturellement avec la mission de service public de la Conférence intercantonale de
+Par une philosophie mutualiste, ces modèles ouverts s'accordent plutôt naturellement avec la mission de service public de la Conférence intercantonale de
 l'instruction publique de la Suisse romande et du Tessin. Réfléchir au commun dans cet environnement à la croisée de la
 recherche et de l'éducation à destination de la société et de sa jeunesse pourrait être une expérience d'une vraie richesse pour chacun de
 nous. En souhaitant que cette candidature et ces sujets susciteront votre intérêt pour prolonger cet échange.

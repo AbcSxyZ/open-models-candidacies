@@ -1,5 +1,6 @@
 ---
-title: "Candidature IRDP"
+title: "Candidature Institut de Recherche et de Documentation Pédagogique"
+subtitle: "Assistant en sciences de l'éducation"
 bibliography: irdp.bib
 ---
 

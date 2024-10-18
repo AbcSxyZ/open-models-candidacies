@@ -66,9 +66,6 @@ un enseignement où des méthodologies sont amenées à s'inventer. Des phénom�
 façon complémentaire en se renforçant mutuellement.
 
 
-Pour espérer une robuste littératie numérique une compréhension des modèles ouverts devient
-indispensable
-
 
 => Objectif pédagogique de compréhension des enjeux d'ouverture
 
@@ -92,6 +89,24 @@ communes et expertises spécifiques
 - Enseignement loi communes dynamiques d'ouverture, clés compréhension des phénomènes du numériques
 - Complexité éducation modèles ouverts, entre culture générale et besoins spécialisés par domaines
 - Processus de professionalisation, manque de compétences
+
+Malgré le caractère fondamental et structurant de ces dynamiques, l'éducation aux modèles ouverts et aux communs
+numériques n'existe presque pas mais devient de plus en plus recherchée du fait de leur importance croissante.
+L'autodidaxie reste la norme dans l'acquisition de compétences dans ces milieux. Timidement des formations se formalisent
+par domaine d'ouverture comme pour les informaticiens et le logiciel ouvert, les bibliothécaires et les chercheurs avec la science
+ouverte, les enseignants commencent à être sensibilisés à l'éducation ouverte, des formations soutenues par la professionalisation
+des acteurs de l'ouverture où se met en place des pôles dédiés dans les organisations.
+Ces modèles ouverts ne sont par contre pas encore expliqués comme un tout pour fournir une vision
+globale de ces transformations alors même que de nombreuses lois communes semblent régir leur fonctionnement que ce soit sur les modèles juridiques,
+économiques, la gouvernance, sur la manière de structurer des écosystèmes ouverts, sur la modularité et l'assemblage de ces ressources, etc.
+Cette éducation aux modèles ouverts ne peut être probablement que protéiforme, des explications d'aujourd'hui
+deviendront sûrement demain des évidences, mais elle pourrait s'articuler d'abord autour de bases plus communes pour acquérir une
+culture générale et ensuite se décliner dans des enseignements plus spécialisés en fonction des domaines
+d'expertises.
+
+Impossible d'imaginer comprendre véritablement le numérique sans appréhender un minimum ces modèles ouverts qui sont
+alors cruciaux dans une robuste littératie numérique. Une maîtrise des modèles ouverts influence la manière
+de penser et d'agir dans cette révolution technologique.
 
 ## Recherche sur l'éducation aux modèles ouverts à l'IRDP
 

@@ -104,7 +104,7 @@ pour combiner ces propositions permettant d'ouvrir la voie à l'exploration de c
 
 Par une relative philosophie mutualiste, voire même fédéraliste, ces modèles ouverts s'accordent plutôt naturellement à la mission de la Conférence intercantonale de
 l'instruction publique de la Suisse romande et du Tessin tout comme à celle de l'institut. Réfléchir au commun dans cet environnement à la croisée de la
-recherche et de l'éducation à destination de la société et de sa jeunesse pourrait être une expérience bien (trop ?) stimulante. Curieux d'avoir l'occasion
+recherche et de l'éducation à destination de la société et de sa jeunesse pourrait être une expérience d'une véritable richesse. Curieux d'avoir l'occasion
 d'approfondir ces sujets avec vous.
 
 <embed src="job-offer.pdf" width="100%" height="800" type="application/pdf">

@@ -2,6 +2,9 @@
 title: "Candidature Institut de Recherche et de Documentation Pédagogique"
 subtitle: "Assistant en sciences de l'éducation"
 bibliography: irdp.bib
+format:
+  html:
+    css: /justify.css
 ---
 
 Quelle transformation provoque le numérique dans notre rapport à la connaissance ? La révolution numérique avec ses

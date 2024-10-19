@@ -49,7 +49,7 @@ obligatoire encouragent l'usage et la publication d'OER comme dans les référen
 s'est récemment doté d'une « Forge des communs numériques éducatifs » pour rassembler et co-produire des contenus pédagogiques dans un environnement partagé.
 Plus le numérique se démocratise et plus ces mouvements d'ouverture prospèrent dans une multitude de domaines.
 
-> « Les communs numériques constituent l'horizon par défaut des projets soutenus et opérés par l'institution. »  
+> « En matière de numérique éducatif nous pouvons désormais affirmer et assumer le fait que les communs numériques constituent l'horizon par défaut des projets soutenus et opérés par l'institution. »  
 > **[Audran Le Baron](https://x.com/LeLibreEdu/status/1776284758953087230), Directeur du numérique pour l'éducation au Ministère (🇫🇷) de l'Éducation nationale**
 
 Ces modèles ouverts suivent tout un processus dans leur développement, avec d'abord une volonté de partage de l'information suivie d'une

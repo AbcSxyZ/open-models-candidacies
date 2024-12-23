@@ -5,7 +5,7 @@ project:
     - README.md
     - nantes/README.md
     - irdp/README.md
-    - iea/README.md
+    - ias/README.md
     
 website:
   title: "Open Education Mission"

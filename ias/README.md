@@ -18,7 +18,7 @@ format:
 ---
 
 
-![Illustration of Open Models](https://raw.githubusercontent.com/Open-Models/Base/refs/heads/main/images/open-models.png){width=80%}
+![Illustration of Open Models](https://raw.githubusercontent.com/Open-Models/Base/refs/heads/main/images/open-models.png){width=70%}
 
 **Online version:** <https://abcsxyz.github.io/open-models-candidacies/ias/README.html>
 

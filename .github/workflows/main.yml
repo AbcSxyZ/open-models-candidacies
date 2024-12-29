@@ -38,6 +38,7 @@ jobs:
     - name: Install Quarto
       run: |
         sudo apt install ./.dependencies/*.deb
+        quarto install tinytex
 
     - name: Render website
       run: |

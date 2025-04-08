@@ -6,6 +6,7 @@ project:
     - nantes/README.md
     - irdp/README.md
     - ias/README.md
+    - univ-toulouse/README.md
     
 website:
   title: "Open Education Mission"

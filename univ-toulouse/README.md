@@ -1,3 +1,10 @@
+---
+title: "Candidature Open Science"
+format:
+  html:
+    css: /justify.css
+---
+
 ## L'Éducation à la Science Ouverte
 
 *Document de candidature pour le poste de chargé de développement science ouverte et évaluation à l'Université Toulouse Capitole*

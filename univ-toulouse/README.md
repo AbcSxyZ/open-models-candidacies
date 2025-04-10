@@ -20,7 +20,7 @@ concerne l'éducation aux modèles ouverts et aux communs numériques. Comme le 
 s'inscrire dans un écosystème global où se dessine alors l'enjeu de l'éducation ouverte au service de la science
 ouverte, l'éducation à la science ouverte se trouve probablement à l'avant-garde de l'éducation ouverte.
 
-## Contexte et Existant
+## Contexte et Existant : L'Éducation (Ouverte) à la Science Ouverte
 
 Avec la démocratisation et l'institutionalisation progressive de ce mouvement ces dernières décennies, l'éducation à la science ouverte
 est déjà une réalité dans une vaste majorité d'universités en France et à l'international. De nombreuses politiques publiques et

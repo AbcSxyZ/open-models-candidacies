@@ -25,7 +25,7 @@ ouverte, l'éducation à la science ouverte se trouve probablement à l'avant-ga
 Avec la démocratisation et l'institutionalisation progressive de ce mouvement ces dernières décennies, l'éducation à la science ouverte
 est déjà une réalité dans une vaste majorité d'universités en France et à l'international. De nombreuses politiques publiques et
 institutionnelles formalisent ces orientations pédagogiques, on peut citer les recommandations de l'UNESCO sur la
-science ouverte (2019) [LINK] qui demande aux états d'« investir dans la formation, l'éducation, la culture numérique et
+science ouverte (2019) [LINK] qui demande aux états d'« investir dans la formation, l'éducation, la culture3460/univ-toulouse/README.html numérique et
 le renforcement des capacités pour soutenir la science ouverte », l'union européenne mentionnait l'axe éducatif comme un
 pillier de leurs « 8 ambitions pour la science ouverte » [LINK], « développer et valoriser les compétences de la science ouverte »
 est le 10ème point du dernier plan national pour la science ouverte 2021-2024 [LINK]. Avec ensuite un ensemble de
@@ -39,11 +39,17 @@ L'éducation à la science ouverte se structure en parallèle dans les universit
 Se construisent des éléments à destination des chercheurs, des formateurs à la science ouverte, des référentiels de
 compétences et syllabus, des espaces pour tenter de mutualiser ces développements comme le collège compétences et
 formation [LINK] du Comité pour la Science Ouverte (CoSo), de la recherche comme le projet OSYR [Open Science for Young
-Researcher] qui vise à analyser les systèmes de formation en science ouverte. La structuration d'une stratégie
-d'éducation à la science ouverte doit s'appuyer sur ces bases pour 1/ mutualiser les réfléxions, moyens et
-développements, 2/ tendre vers l'état de l'art de la science ouverte et de son éducation, 3/ bénéficier d'une expertise
-externe que ce soit pour la recherche (ex: questions OA pointue) ou les activités de supports. Il y a la nécessité
-aujourd'hui d'apprendre à mobiliser et adapter cette matière riche dans une stratégie d'éducation à la science ouverte.
+Researcher] qui vise à analyser les systèmes de formation en science ouverte... La structuration d'une stratégie
+d'éducation à la science ouverte doit s'appuyer sur ces bases pour entre autres mutualiser les réflexions, moyens et
+développements, tendre vers l'état de l'art de la science ouverte et de son éducation, bénéficier d'une expertise
+externe que ce soit pour la recherche (ex: questions OA pointue) ou les activités de supports.
+
+Il y a la nécessité aujourd'hui d'apprendre à mobiliser et adapter cette matière riche dans une stratégie d'éducation à la science ouverte.
+L'éducation à la science ouverte est une véritable exploration des pratiques d'ouverture dans l'éducation, une exploration de cette éducation dite ouverte [open education].
+L'éducation ouverte demande de comprendre comment utiliser, modifier et produire ces ressources éducatives ouvertes dans ces contextes,
+d'appréhender la manière de penser ses pratiques pédagogiques avec ces communs numériques, de réfléchir aux interactions
+avec les communautés pour bénéficier au mieux de ces collaborations ouvertes dans ses démarches. Une maîtrise plus
+profonde de l'éducation ouverte semble être un besoin clé pour intensifier le développement de la science ouverte.
 
 #### Quelques Ressources & Acteurs
 

@@ -38,21 +38,22 @@ développements, 2/ tendre vers l'état de l'art de la science ouverte et de son
 externe que ce soit pour la recherche (ex: questions OA pointue) ou les activités de supports. Il y a la nécessité
 aujourd'hui d'apprendre à mobiliser et adapter cette matière riche dans une stratégie d'éducation à la science ouverte.
 
-Quelques ressources:
-- Formation à la science ouverte orienté chercheurs/doctorants :
+#### Quelques Ressources & Acteurs
+
+- **Formation à la science ouverte orienté chercheurs/doctorants** :
   [passeport pour la science ouverte](https://www.ouvrirlascience.fr/passeport-pour-la-science-ouverte-guide-pratique-a-lusage-des-doctorants/),
   [MOOC Science Ouverte](https://www.fun-mooc.fr/fr/cours/la-science-ouverte/) de Sorbonne Université,
   [MOOC Open Science 101](https://science.nasa.gov/open-science/os101/) de la NASA [maj en cours (?), voir [backup](https://github.com/Open-Models/Transform-to-Open-Science)], 
   [The Turing Way](https://book.the-turing-way.org/),
   la [Petite encyclopédie de la science ouverte](https://encyclo.ouvrirlascience.fr/fr), etc.
-- À destination des formateurs en science ouverte : 
+- **À destination des formateurs en science ouverte** : 
   [Framework for Open and Reproducible Research Training](https://forrt.org/) (FORRT),
   [référentiel des compétences en science ouverte]() de la Direction des bibliothèques et musées d'Université Paris Cité,
   [Référentiel compétences du doctorat](https://www.sorbonne-universite.fr/sites/default/files/media/2023-12/Comp%C3%A9tences_Doctorat_ERISSO_SU_0.pdf) de Sorbonne Université,
   guide [former à la science ouverte tout au long de la thèse à l’usage des écoles doctorales](https://www.ouvrirlascience.fr/former-a-la-science-ouverte-tout-au-long-de-la-these/),
   [Open Science Train-the-Trainer bootcamps](https://www.openaire.eu/7th-openaire-open-science-train-the-trainer-bootcamp) portés par OpenAIRE, 
   des supports éparses produits par d'autres formateurs (en bibliothèque).
-- Des communautés de formateurs (ou de chercheurs) : autour de The Turing Way, de l'initiative FORRT, du curriculum open
+- **Des communautés de formateurs (ou de chercheurs)** : autour de The Turing Way, de l'initiative FORRT, du curriculum open
   science 101 de la NASA, [Skills for the European Open Science commons](https://www.skills4eosc.eu/) (Skills4EOSC),
   forum [Team Science Ouverte](https://teamscienceouverte.org/), la [Digital Research Academy](https://digital-research.academy/).
 

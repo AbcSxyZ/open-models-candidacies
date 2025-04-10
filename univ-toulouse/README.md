@@ -52,10 +52,11 @@ aujourd'hui d'apprendre à mobiliser et adapter cette matière riche dans une st
   [Référentiel compétences du doctorat](https://www.sorbonne-universite.fr/sites/default/files/media/2023-12/Comp%C3%A9tences_Doctorat_ERISSO_SU_0.pdf) de Sorbonne Université,
   guide [former à la science ouverte tout au long de la thèse à l’usage des écoles doctorales](https://www.ouvrirlascience.fr/former-a-la-science-ouverte-tout-au-long-de-la-these/),
   [Open Science Train-the-Trainer bootcamps](https://www.openaire.eu/7th-openaire-open-science-train-the-trainer-bootcamp) portés par OpenAIRE, 
-  des supports éparses produits par d'autres formateurs (en bibliothèque).
+  des supports éparses produits par d'autres formateurs (en bibliothèque), etc.
 - **Des communautés de formateurs (ou de chercheurs)** : autour de The Turing Way, de l'initiative FORRT, du curriculum open
   science 101 de la NASA, [Skills for the European Open Science commons](https://www.skills4eosc.eu/) (Skills4EOSC),
-  forum [Team Science Ouverte](https://teamscienceouverte.org/), la [Digital Research Academy](https://digital-research.academy/).
+  forum [Team Science Ouverte](https://teamscienceouverte.org/), la [Digital Research Academy](https://digital-research.academy/),
+  [International Network of Open Science & Scholarship Communities](https://osc-international.com/), etc.
 
 ## Ressources & licence
 

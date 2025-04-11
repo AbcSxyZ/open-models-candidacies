@@ -71,6 +71,37 @@ profonde de l'éducation ouverte semble être un besoin clé pour intensifier le
   forum [Team Science Ouverte](https://teamscienceouverte.org/), la [Digital Research Academy](https://digital-research.academy/),
   [International Network of Open Science & Scholarship Communities](https://osc-international.com/), etc.
 
+## Évolution de l'ouverture : du partage à la collaboration. Vers une « Open Science 2.0 » ?
+
+Les mouvements d'ouverture évoluent et mûrissent avec le temps. Un pattern similaire semble se dessiner où l'ouverture
+est d'abord abordée comme une logique de partage de ressource pour ensuite avoir une dimension collaborative qui se réalise et s'apprivoise.
+L'essor de la collaboration paraît être le résultat d'intérêts communs qui convergent avec l'abondance de ressources couplé à des environnements techniques
+ainsi qu'une culture ouverte qui se développent.
+On observe cette évolution dans le logiciel : le concept de « logiciel libre » prend corps dans les années 80 dans une
+volonté de libération des codes sources, la notion d'« open source » se formalise en 1998 suite à la théorisation des
+pratiques de collaboration ouverte dans l'essai The Cathedral and the Bazaar d'Eric Raymond. Le milieu de l'éducation à
+la science ouverte pourrait être justement en train de vivre cette bascule du partage à la collaboration.
+
+La science ouverte semble progressivement se diriger vers cette dimension collaborative. D'abord considérée sous l'angle « open
+access » début 2000 en étant centré sur la publication, le terme d'open science est arrivé progressivement pour inclure une vision plus
+globale. Les définitions se transforment, des projets de recherche collaboratifs d'ampleur montrent des possibles comme
+The Human Genome Project, les modèles de publication s'adaptent progressivement aux réalités numérique (voir modèle
+[Publish-Review-Curate](https://asapbio.org/understanding-the-publish-review-curate-prc-model-of-scholarly-communication)),
+on voit émerger de nouvelle manière d'éditer les articles/documents avec une réflexion sur le sujet de l'« écriture numérique »
+menant à un savoir plus évolutif et collaboratif (voir [Wikijournals](https://meta.wikimedia.org/wiki/WikiJournal_User_Group)
+ou le projet [\_Stylo\_](https://stylo-doc.ecrituresnumeriques.ca/fr/) d'une Chaire canadienne sur les
+écritures numériques), la recherche citoyenne et participative s'invite également de plus en plus dans la science
+ouverte interrogant ce rapport entre science ouverte et société... À la vue de tendances qui dépassent la simple publication en
+accès libre, l'idée d'une évolution vers une « [open science 2.0](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002362#sec017) »
+a été émise. Cette évolution dans le fonctionnement et la conception de la science ouverte va transformer progressivement la manière de former à ces
+pratiques, d'un accompagnement à la publication vers une aide à la structuration d'écosystèmes communautaires autour des projets de
+recherche.
+
+> Ce manque de compétences collaboratives peut freiner les avancées de la recherche, [une étude](https://pmc.ncbi.nlm.nih.gov/articles/PMC8179078/pdf/12874_2021_Article_1304.pdf) sur l'usage de la science
+> ouverte pendant le covid pointait une duplication d'efforts par un manque de coordination, de surcroit sur de mauvaises
+> pistes comme l'hydroxychloroquine. La science dans son essence est une œuvre collaborative, mais cette capacité de
+> collaboration reste peu maîtrisée d'autant plus avec les nouvelles formes d'interaction que provoque la révolution numérique.
+
 ## Ressources & licence
 
 Contenu disponible sous licence [Creative Commons CC 0](https://creativecommons.org/publicdomain/zero/1.0/), les

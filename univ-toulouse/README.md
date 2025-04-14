@@ -23,21 +23,23 @@ ouverte. L'éducation à la science ouverte se trouve probablement à l'avant-ga
 
 Avec la démocratisation et l'institutionnalisation progressive de ce mouvement ces dernières décennies, l'éducation à la science ouverte
 est déjà une réalité dans une vaste majorité d'universités en France et à l'international. De nombreuses politiques publiques et
-institutionnelles formalisent ces orientations pédagogiques, on peut citer les recommandations de l'UNESCO sur la
-science ouverte (2019) [LINK] qui demande aux états d'« investir dans la formation, l'éducation, la culture numérique et
+institutionnelles formalisent ces orientations pédagogiques, on peut citer les [recommandations de l'UNESCO sur la
+science ouverte](https://www.unesco.org/en/open-science/about) (2019) qui demande aux états d'« investir dans la formation, l'éducation, la culture numérique et
 le renforcement des capacités pour soutenir la science ouverte », l'union européenne mentionnait l'axe éducatif comme un
-pilier de leurs « 8 ambitions pour la science ouverte » [LINK], « développer et valoriser les compétences de la science ouverte »
-est le 10ème point du dernier plan national pour la science ouverte 2021-2024 [LINK]. Avec ensuite un ensemble de
+pilier de leurs « [8 ambitions pour la science ouverte](https://web.archive.org/web/20230113125859/https://research-and-innovation.ec.europa.eu/system/files/2019-12/ec_rtd_factsheet-open-science_2019.pdf) », « développer et valoriser les compétences de la science ouverte »
+est le 10ème point du dernier [plan national pour la science ouverte](https://www.enseignementsup-recherche.gouv.fr/fr/le-plan-national-pour-la-science-ouverte-2021-2024-vers-une-generalisation-de-la-science-ouverte-en-48525) (2021-2024). Avec ensuite un ensemble de
 politiques et stratégies à l'échelle des universités, comme par exemple Nantes Universités qui, avec une politique
 globale d'ouverture assez avancée, porte une attention « à ce développement et la reconnaissance des compétences » dans
-leur plan science ouverte [LINK]. La dynamique en faveur de l'éducation à la science ouverte se développe autant à un
+leur [plan science ouverte](https://www.univ-nantes.fr/universite/vision-strategie-et-grands-projets/nantes-universite-une-universite-ouverte).
+La dynamique en faveur de l'éducation à la science ouverte se développe autant à un
 niveau macro que micro en se montrant plus comme un mouvement de fond plutôt qu'une simple tendance.
 
 L'éducation à la science ouverte se structure en parallèle dans les universités résultant en un développement prolifique de ressources
 (ouvertes), d'outils et de communautés spécifiques. **On observe l'émergence de communs pédagogiques dans le domaine.**
 Se construisent des éléments à destination des chercheurs, des formateurs à la science ouverte, des référentiels de
-compétences et syllabus, des espaces pour tenter de mutualiser ces développements comme le collège compétences et
-formation [LINK] du Comité pour la Science Ouverte (CoSo), de la recherche comme le projet OSYR [Open Science for Young
+compétences et syllabus, des espaces pour tenter de mutualiser ces développements comme le [collège compétences et
+formation](https://www.ouvrirlascience.fr/college-competences-et-formation/) du Comité pour la Science Ouverte (CoSo),
+de la recherche comme le projet OSYR [Open Science for Young
 Researcher] qui vise à analyser les systèmes de formation en science ouverte... La structuration d'une stratégie
 d'éducation à la science ouverte doit s'appuyer sur ces bases pour entre autres mutualiser les réflexions, moyens et
 développements, tendre vers l'état de l'art de la science ouverte et de son éducation, bénéficier d'une expertise

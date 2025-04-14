@@ -1,5 +1,4 @@
 ---
-title: "Candidature Open Science"
 format:
   html:
     css: /justify.css

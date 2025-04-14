@@ -7,7 +7,7 @@ format:
 
 ## L'Éducation à la Science Ouverte
 
-*Document de candidature pour le poste de chargé de développement science ouverte et évaluation à l'Université Toulouse Capitole*
+*Document réflexif pour une candidature au poste de chargé de développement science ouverte et évaluation à l'Université Toulouse Capitole*
 
 Qu'est-ce que l'éducation à la science ouverte à l'échelle d'une université ? La science ouverte se normalise dans la
 recherche mais ces pratiques demandent un ensemble de compétences nouvelles, l'éducation à la science ouverte devient de fait
@@ -103,6 +103,38 @@ recherche.
 > ouverte pendant le covid pointait une duplication d'efforts par un manque de coordination, de surcroit sur de mauvaises
 > pistes comme l'hydroxychloroquine. La science dans son essence est une œuvre collaborative, mais cette capacité de
 > collaboration reste peu maîtrisée d'autant plus avec les nouvelles formes d'interaction que provoque la révolution numérique.
+
+## Public Cible & Stratégie Pédagogique
+
+L'éducation à la science ouverte se focalise majoritairement sur la formation des doctorants et des chercheurs dans une
+logique de publication (article, données, etc.). Nous sommes pourtant bien plus utilisateurs que producteurs de ressources ouvertes
+mais cette éducation à l'usage de la science ouverte reste plutôt marginale; la formation d'autres groupes d'acteurs comme les étudiants
+ou des publics externes reste également encore peu considérée. L'éducation à la science ouverte se doit d'être plus globale
+en matière de publics concernés en se dirigeant vers les enjeux de l'usage des sciences.
+
+> **Point de vue de l'initiative [FORRT](https://forrt.org/about/us/) :**
+> However, ongoing attempts have neglected an essential aspect of the academic machinery: students. [...]
+> In our view, a scientific utopia has a fourth pillar, whose principal goal is to familiarize higher education
+> students, who are future consumers of science and may become knowledge producers, with the intricacies of the
+> process of science.
+
+L'éducation à la science ouverte se concoit progressivement comme un parcours pédagogique sur le temps long comme le montre le guide
+« former à la science ouverte tout au long de la thèse à l’usage des écoles doctorales ». En considérant mieux les
+premières années d'études, cette éducation à la science ouverte pourrait se penser sur l'ensemble d'une vie
+universitaire. Ces bases acquises dans les premières années pourraient permettre une formation plus avancée des chercheurs
+et doctorants comme sur cette dimension collaborative en progession. Une meilleure maîtrise de ces pratiques d'ouverture
+par des publics externes issu ou non de l'université devrait contribuer à tendre vers une science plus collaborative construite avec la société.
+L'acculturation à la science ouverte se produit également de manière informelle, à travers l'environnement et les outils
+utilisés et/ou visibles, les interactions sociales tel qu'une rapide remarque d'enseignant sur un outil ou une ressource, les
+politiques d'ouverture peuvent également participer à conscientiser ces transformations, etc. Tout cette éducation informelle
+peut être mieux pensée et organisée pour favoriser l'intérêt à la science ouverte et sa compréhension par l'ensemble
+des universitaires. Avec des environnements plus matures, certaines explications d'aujourd'hui pourraient devenir demain
+des évidences par une meilleure intégration de la science ouverte dans les pratiques.
+
+Avec l'intérêt croissant pour l'éducation à la science ouverte en face de cette complexité, l'avenir pourrait s'orienter
+vers la structuration et la formalisation de stratégies pédagogiques au niveau des établissements.
+Tous les universitaire doivent aujourd'hui comprendre la révolution scientifique en cours et une maîtrise de la science ouverte devient une nécessité
+pour le citoyen qui aspire à être éclairé !
 
 ## Ressources & licence
 

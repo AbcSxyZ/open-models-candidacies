@@ -69,7 +69,9 @@ profonde de l'éducation ouverte semble être un besoin clé pour intensifier le
 - **Des communautés de formateurs (ou de chercheurs)** : autour de The Turing Way, de l'initiative FORRT, du curriculum open
   science 101 de la NASA, [Skills for the European Open Science commons](https://www.skills4eosc.eu/) (Skills4EOSC),
   forum [Team Science Ouverte](https://teamscienceouverte.org/), la [Digital Research Academy](https://digital-research.academy/),
-  [International Network of Open Science & Scholarship Communities](https://osc-international.com/), etc.
+  [International Network of Open Science & Scholarship Communities](https://osc-international.com/),
+  [comité de réflexion pour la science ouverte](https://www.univ-toulouse.fr/recherche-dynamique/ceso-comite-de-reflexion-pour-science-ouverte) (CéSO) de la Communauté d'universités et établissements de Toulouse,
+  [Toul'AO](https://openarchiv.hypotheses.org/), etc.
 
 ## Évolution de l'ouverture : du partage à la collaboration. Vers une « Open Science 2.0 » ?
 
